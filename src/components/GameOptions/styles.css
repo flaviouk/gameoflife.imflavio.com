@@ -1,0 +1,14 @@
+.label {
+    display: inline-block;
+    margin: 5px;
+}
+
+.button {
+    display: block;
+    margin: 10px;
+}
+
+.game-options-container {
+    text-align: center;
+    margin-bottom: 20px;
+}

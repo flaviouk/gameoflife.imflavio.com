@@ -1,0 +1,16 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "NODE_PATH=./src react-scripts start"
+  },
+  "dependencies": {
+    "prop-types": "15.6.0",
+    "react": "16.1.1",
+    "react-dom": "16.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.17"
+  }
+}
