@@ -1,19 +1,24 @@
 {
   "name": "game-of-life",
-  "homepage": "https://gameoflife.imflavio.com",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "NODE_PATH=./src react-scripts start",
-    "build": "NODE_PATH=./src react-scripts stbuildart",
+    "build": "NODE_PATH=./src react-scripts build",
     "now-build": "yarn build"
   },
   "dependencies": {
     "prop-types": "15.6.0",
-    "react": "16.1.1",
-    "react-dom": "16.1.1"
+    "react": "16.8.0",
+    "react-dom": "16.8.0"
   },
   "devDependencies": {
-    "react-scripts": "1.0.17"
-  }
+    "react-scripts": "2.1.8"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
