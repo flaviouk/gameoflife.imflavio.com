@@ -1,5 +1,6 @@
 {
   "name": "game-of-life",
+  "homepage": "https://gameoflife.imflavio.com",
   "version": "1.0.0",
   "private": true,
   "scripts": {
