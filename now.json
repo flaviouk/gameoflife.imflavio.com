@@ -1,14 +1,4 @@
 {
-    "version": 2,
-    "name": "gameoflife.imflavio.com",
-    "alias": ["gameoflife.imflavio.com", "www.gameoflife.imflavio.com", "gameoflife.flavio.uk", "www.gameoflife.flavio.uk"],
-    "regions": ["all"],
-    "builds": [
-      {
-        "src": "package.json",
-        "use": "@now/static-build",
-        "config": { "distDir": "build" }
-      }
-    ]
+    "version": 2
   }
   
